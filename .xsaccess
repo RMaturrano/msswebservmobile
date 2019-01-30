@@ -1,0 +1,5 @@
+{
+    "anonymous_connection": "MSS_MOBILE::anonConn",
+    "exposed" : true,  
+    "authentication" : null
+}
